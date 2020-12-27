@@ -5,8 +5,10 @@
 ### To do Winter 20/21
 
 [ ] Privatspa in [Wislepark](http://www.wislepark.ch/wellness/)
+
 [ ] In ein feines [Restaurant](https://tanaka-restaurant.ch/) essen gehen.
-[ ] 
+
+[ ] Irgendwo in den Bergen übernachten.
 
 ### Support or Contact
 
