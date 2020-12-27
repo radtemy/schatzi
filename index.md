@@ -2,6 +2,9 @@
 
 ![I love you](https://www.stehgreif.com/images/product_images/original_images/pk1000-iloveyou.png)
 
+Hier können wir festhalten was wir noch in der nächsten Zeit zusammen machen könnten :)
+
+
 ### To do Winter 20/21
 
 [ ] Privatspa in [Wislepark](http://www.wislepark.ch/wellness/)
