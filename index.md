@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Image](schatzi/a85gzNp_700bwp.webp)
+![Image](radtemy/schatzi/a85gzNp_700bwp.webp)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
