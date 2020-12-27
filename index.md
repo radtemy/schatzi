@@ -4,7 +4,9 @@ You can use the [editor on GitHub](https://github.com/radtemy/schatzi/edit/gh-pa
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Jekyll Themes
+### To do
+
+[ ] Privatspa in [Wislepark](http://www.wislepark.ch/wellness/)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/radtemy/schatzi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
