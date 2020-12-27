@@ -1,5 +1,7 @@
 ## Willkommen auf der Schatzi Seite
 
+![I love you] https://www.stehgreif.com/images/product_images/original_images/pk1000-iloveyou.png
+
 You can use the [editor on GitHub](https://github.com/radtemy/schatzi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
