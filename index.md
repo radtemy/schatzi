@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Willkommen auf der Schatzi Seite
 
 You can use the [editor on GitHub](https://github.com/radtemy/schatzi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
