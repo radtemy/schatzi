@@ -1,6 +1,6 @@
 ## Willkommen auf der Schatzi Seite
 
-! [I love you] (https://www.stehgreif.com/images/product_images/original_images/pk1000-iloveyou.png)
+![I love you](https://www.stehgreif.com/images/product_images/original_images/pk1000-iloveyou.png)
 
 You can use the [editor on GitHub](https://github.com/radtemy/schatzi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
