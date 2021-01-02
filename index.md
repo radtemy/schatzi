@@ -14,3 +14,4 @@ Hier können wir festhalten was wir noch in der nächsten Zeit zusammen machen k
 [ ] Weitere Ideen...
 
 ![Kussi](https://www.nameslook.com/names/kussi-nameslook.jpg)
+![China](https://raw.githubusercontent.com/radtemy/schatzi/main/a85gzNp_700bwp.webp)
